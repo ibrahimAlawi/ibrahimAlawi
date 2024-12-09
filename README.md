@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me mr.ibrahimalawi@gmail.com
 - 🎓 Graduate from King Abdilaziz University
-- 👨‍💻 Specialization Computer Science 
+- 👨‍💻 Major Computer Science 
